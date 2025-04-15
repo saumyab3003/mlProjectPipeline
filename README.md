@@ -19,3 +19,19 @@
 
 4) pull the repo changes by : git pull
 
+5) Create setup.py & requirements.txt
+    The setup script is the centre of all activity in building, distributing, and installing modules using the Distutils.
+
+6) Create src to install pacakges.
+
+7) run pip install -r requirements.txt on terminal
+    this will build the package mlproject.egg-info file
+
+8) Push everything to git
+    git add .
+    git commit -m "msg"
+    git push
+
+9) Create folder structure in src
+
+10) Develop in Logger.py and exception.py
